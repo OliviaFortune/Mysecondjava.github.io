@@ -15,7 +15,7 @@
 <script>
 
 function myFunction() {
-  document.getElementById("demo1").innerHTML = "Hello Dolly!";
+  document.getElementById("demo1").innerHTML = "Hello Dolly 1.0";
   
 }
 function myFunction1() {
