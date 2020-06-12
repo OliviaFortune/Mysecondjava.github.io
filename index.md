@@ -1,8 +1,7 @@
- <!DOCTYPE html>
 <html>
 <body>
 
-<h2>JavaScript Statements</h2> // Header
+<h2>JavaScript Statements</h2> 
 
 <p>JavaScript code blocks are written between { and }</p>
 
@@ -17,11 +16,11 @@
 
 function myFunction() {
   document.getElementById("demo1").innerHTML = "Hello Dolly!";
-  //Stores the text "Hello Dolly" in the HTML Element
+  
 }
 function myFunction1() {
   document.getElementById("demo2").innerHTML = "Hello Dolly again!";
-  //Stores the text "Hello Dolly" in the HTML Element
+  
 }
 
 </script>
