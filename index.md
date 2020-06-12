@@ -6,7 +6,7 @@
 <p>JavaScript code blocks are written between { and }</p>
 
 <button type="button" onclick="myFunction()">Click Me!</button>
-<button type="button" onclick="myFunction1()">Click Me!</button>
+<button type="button1" onclick="myFunction1()">Click Me!</button1>
 
 <p id="demo1"></p>
 <p id="demo2"></p>
