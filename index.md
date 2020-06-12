@@ -1,5 +1,4 @@
- 
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <body>
 
@@ -11,6 +10,7 @@
 <button type="button" onclick="myFunction1()">Click Me!</button>
 
 <p id="demo1"></p>
+<p id="demo2"></p>
 
 
 <script>
